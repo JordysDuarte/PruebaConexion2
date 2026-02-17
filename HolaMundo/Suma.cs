@@ -16,6 +16,8 @@ namespace HolaMundo
 
             int resultado = num1 + num2;
 
+            int multiplicacion = num1 * num2;
+
             
         }
 
